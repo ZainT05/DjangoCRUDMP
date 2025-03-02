@@ -10,7 +10,7 @@ Step 3: Import the Database inside the PhpMyAdmin in the SQL Import Section
 
 Step 4: Create a folder called "Django" and then go inside the folder then paste the folder inside that you got from the GitHub Repository called "student_management"
 
-Step 5: Run a Command Prompt/Terminal inside the folder and then setup a Python Virtual Environment called "venv" by typing: "python -m venv venv" now you are inside the Python's virtual environment
+Step 5: Run a Command Prompt/Terminal inside the folder and then setup a Python Virtual Environment called "venv" by typing: "python -m venv venv" or "py -m venv venv" now you are inside the Python's virtual environment
 
 Step 6: Run the venv or Python's Virtual Environment by typing "venv\Scripts\activate" and then install MySQL so Django and MariaDB can work by typing: "pip install mysqlclient"
 

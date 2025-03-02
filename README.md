@@ -1,6 +1,6 @@
 How to Setup this Project:
 
-Precaution: Python, Pip, and XAMPP/MariaDB(MySQL) is needed to run this project
+Precaution: Python, Pip, and XAMPP/[Version 11.4+]MariaDB(MySQL) is needed to run this project
 
 Step 1: Clone/Download the Project to get the files
 

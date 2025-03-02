@@ -6,7 +6,7 @@ Step 1: Clone/Download the Project to get the files
 
 Step 2: Open your MySQL or XAMPP to access PhpMyAdmin
 
-Step 3: Import the Database inside the PhpMyAdmin in the SQL Import Section
+Step 3: Import the Database you got from the GitHub Repository called: "student_db.sql" inside the PhpMyAdmin in the SQL Import Section
 
 Step 4: Create a folder called "Django" and then go inside the folder then paste the folder inside that you got from the GitHub Repository called "student_management"
 
